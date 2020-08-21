@@ -177,7 +177,7 @@ const productInfo: React.FC<productprops> = (productprops: any) => {
     var a = cartitems.filter((items) => {
       return items.key == dataProduct.id
     })
-    console.log(a, 'a value');
+    //console.log(a, 'a value');
 
     if (a.length != 0) {
       Alert.alert('This product alredy in cart')

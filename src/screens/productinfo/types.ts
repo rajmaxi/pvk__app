@@ -25,4 +25,3 @@ type shareTypes = {
     name: string,
 }
 type productInfotypes = NavigationComponent<productprops>;  
-test;
