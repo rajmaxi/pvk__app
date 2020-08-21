@@ -24,4 +24,5 @@ type shareTypes = {
     seo_url: string;
     name: string,
 }
-type productInfotypes = NavigationComponent<productprops>;
+type productInfotypes = NavigationComponent<productprops>;  
+test;
